@@ -10,4 +10,4 @@ git clone https://github.com/drego85/JoomlaScan.git
 
 replace joomlascan.py with jscan3.py
 
-python jscan3.py -u http://dev.inlanefreight.local
+python3 jscan3.py -u http://dev.inlanefreight.local
